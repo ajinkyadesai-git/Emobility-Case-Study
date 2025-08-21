@@ -39,7 +39,7 @@ A compact, recruiter-friendly portfolio artifact showing how I take a product pr
 
 ---
 
-## Suggested structure (copy/edit as needed)
+## structure 
 
 ```
 .
@@ -52,7 +52,6 @@ A compact, recruiter-friendly portfolio artifact showing how I take a product pr
    └─ delivery_delay_risk_model_card.pdf
 ```
 
-> If you prefer Word/Google Docs, keep the same sections and link to screenshots (dashboards, SQL snippets, cohort charts).
 
 ---
 
