@@ -65,7 +65,7 @@ A portfolio artifact showing how I take a product problem from **Problem → KPI
 
 ## Data & Privacy
 
-This portfolio uses **representative** operational patterns. No PII is included. For production work, I follow role-based access, audit logging, and periodic drift/fairness checks.
+This portfolio uses representative operational patterns. No PII is included. For production work, I follow role-based access, audit logging, and periodic drift/fairness checks.
 
 ---
 
