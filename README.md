@@ -39,7 +39,7 @@ A compact, recruiter-friendly portfolio artifact showing how I take a product pr
 
 ---
 
-## structure 
+## Structure 
 
 ```
 .
