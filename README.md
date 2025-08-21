@@ -34,7 +34,7 @@ A portfolio artifact showing how I take a product problem from **Problem → KPI
 
 ## How to use this repo
 
-- **For recruiters/hiring managers:** Skim the PRD to see how I structure a problem and KPIs; check the Readout to view experiment rigor and decision-making; use the Model Card to assess ML literacy, evaluation discipline, and governance awareness.  
+- **For HMs:** Skim the PRD to see how I structure a problem and KPIs; check the Readout to view experiment rigor and decision-making; use the Model Card to assess ML literacy, evaluation discipline, and governance awareness.  
 - **For PM/Analyst peers:** Borrow the KPI dictionary/guardrail approach, the experiment readout template, and the model card sections for your projects.
 
 ---
