@@ -1,6 +1,6 @@
 # Mobility Analytics: PRD + Experiment Readout + Model Card
 
-A compact, recruiter-friendly portfolio artifact showing how I take a product problem from **Problem → KPIs → Scope → Solution → Outcome**, plus an **Experiment Readout** and a **Model Card** for a pilot ML use case.
+A portfolio artifact showing how I take a product problem from **Problem → KPIs → Scope → Solution → Outcome**, plus an **Experiment Readout** and a **Model Card** for a pilot ML use case.
 
 > **Highlights**
 > - Delivery uptime increased by **~18%** after instrumenting activation/uptime funnels and aligning cross-functional KPIs.
